@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.4.0",
+    "@types/cookie-session": "^2.0.41",
     "@types/eslint": "^7.2.5",
     "axios": "^0.21.0",
     "azure-storage": "^2.10.3",
